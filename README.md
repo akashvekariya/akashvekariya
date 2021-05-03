@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain, Smart Contract and Concensus mechanism development
 - 🌱 I’m currently learning the same
 - 💞️ I’m looking to collaborate on it
-- 📫 How to reach me akashvek007@gmail.com
+- 📫 Want to reach me? Here you go akashvek007@gmail.com
 
 <!---
 akashvekariya/akashvekariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
